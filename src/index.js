@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'; // JSX가 있는 Componet를 사용하기 위해 꼭 입력해야 함.
 import ReactDOM from 'react-dom';
 import App from './App';
 // import Potato from './Potato';
